@@ -1,4 +1,4 @@
-# vedika_rana_25scs1003004589_IIlM-GN
+# vedika_rana_25scs1003004589_IILM_DataScience
 Data Science Project  "  Telecome Customer Churn prediction model using machine learning " repository 
 student : vedika Rana 
 institute : IILM GN 
